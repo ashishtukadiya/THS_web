@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@700&display=swap");
+
+.verification-body {
+  backdrop-filter: blur(2px);
+  background: rgba(50, 59, 75, 0.3);
+}
+
+.skip-box {
+  background: #ffffff !important;
+  border-radius: 16px !important;
+  width: 378px !important;
+  height: 444px !important;
+  padding: 0px !important;
+
+}
+
+.exclamation-box {
+  width: 116px;
+  background: linear-gradient(
+    221.15deg,
+    #fc9875 13.33%,
+    rgba(218, 111, 74, 0.88) 116.38%
+  );
+  height: 116px;
+  border-radius: 50%;
+  margin-top: 56px;
+  margin-right: 131px;
+  margin-left: 131px;
+}
+.exclamation {
+  padding: 38px 50px !important;
+}
+
+.warning-box {
+  margin-top: 36px;
+  margin-right: 69px;
+  margin-left: 69px;
+}
+.warning-txt {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 20px !important;
+  line-height: 32px !important;
+  text-align: center !important;
+  color: #1e1f20 !important;
+  white-space: nowrap;
+}
+
+.info-box {
+  margin-top: 10px;
+  margin-left: 39px;
+  margin-right: 39px;
+}
+
+.info-txt {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 400 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center !important;
+  color: #1e1f20 !important;
+  white-space: nowrap;
+}
+
+.cancel-btn {
+  box-sizing: border-box;
+  position: absolute;
+  background: #ffffff;
+  border: 1px solid #e0e0e0 !important;
+  border-radius: 12px !important;
+  width: 153px;
+  height: 50px;
+  margin: 40px 24px 30px 24px !important;
+}
+
+.cancel-text {
+  height: 24px;
+  top: calc(50% - 24px / 2);
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #9393aa;
+  text-transform: none;
+}
+
+.skipanyway-btn {
+  position: absolute !important;
+  background: linear-gradient(45deg, #3093bb 0%, #82dbff 100%);
+  border-radius: 12px !important;
+  width: 153px;
+  height: 50px;
+  margin: 40px 24px 30px 0px !important;
+}
+
+.skipanyway-text {
+  height: 24px;
+  top: calc(50% - 24px / 2);
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #ffffff;
+  text-transform: none;
+}

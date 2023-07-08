@@ -1,0 +1,39 @@
+.f1{
+    color: var(--text-1, #1E1F20) !important;
+
+/* Title 1 (Bold) */
+font-size: 20px !important;
+font-family: Mulish !important;
+font-weight: 700 !important;
+line-height: 32px !important;
+}
+.table{
+    display: flex;
+width: 686px;
+padding: 24px;
+flex-direction: column;
+align-items: flex-start;
+gap: 16px;
+height: 566px;
+}
+.modal-container {
+    max-height: 70vh; /* Adjust the value as needed */
+    overflow-y: auto;
+    border-radius: 16px !important;
+background: var(--text-0, #FFF) !important;
+  }
+  .table-header-cell {
+    
+    font-weight: bold;
+    display: flex;
+width: 160px !important;
+flex-direction: column !important;
+flex-shrink: 0 !important;
+color: var(--secondary-3, #24B2B2) !important;
+
+/* Base 1 (Bold) */
+font-size: 15px !important;
+font-family: Mulish !important;
+font-weight: 700 !important;
+line-height: 24px !important;
+  }

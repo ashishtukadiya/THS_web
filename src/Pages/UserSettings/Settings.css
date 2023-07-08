@@ -1,0 +1,107 @@
+.setting-name {
+  color: var(--text-1, #1e1f20);
+  font-size: 24px !important;
+  font-family: Mulish !important;
+  font-weight: 800 !important;
+  line-height: 40px !important;
+  margin-top: 96px !important;
+  margin-left: 100px !important;
+}
+
+.main-layout {
+  margin: 20px 0px 134px 100px !important;
+  display: flex;
+}
+
+.setting-layout {
+  width: 245px;
+  height: 734px;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0px 5px 10px 0px rgba(0, 64, 128, 0.04);
+}
+
+.time-box {
+  padding: 33px 30px 0px 29px !important;
+  display: flex;
+  color: var(--primary-1, #3093bb);
+  /* color: var(--text-2, #9393aa);  */
+}
+
+.bank-box {
+  padding: 33px 30px 0px 29px !important;
+  display: flex;
+  color: var(--text-2, #9393aa);
+  /* color: var(--primary-1, #3093BB); */
+}
+
+.lock-box {
+  padding: 33px 30px 0px 29px !important;
+  display: flex;
+  color: var(--text-2, #9393aa);
+  /* color: var(--primary-1, #3093BB); */
+}
+
+.mobile-box {
+  padding: 33px 30px 0px 29px !important;
+  display: flex;
+  color: var(--text-2, #9393aa);
+  /* color: var(--primary-1, #3093BB); */
+}
+
+.clock-img {
+  width: 22px;
+  height: 22px;
+}
+
+.time-slot {
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 600 !important;
+  line-height: 24px !important;
+  margin-left: 10px !important;
+  white-space: nowrap;
+}
+
+.arrow-left-time {
+  width: 22px !important;
+  height: 22px !important;
+  transform: rotate(-90deg);
+  flex-shrink: 0;
+  margin-left: 14px !important;
+}
+
+.arrow-left-bank {
+  width: 22px !important;
+  height: 22px !important;
+  transform: rotate(-90deg);
+  flex-shrink: 0;
+  margin-left: 40px !important;
+}
+
+.arrow-left-lock {
+  width: 22px !important;
+  height: 22px !important;
+  transform: rotate(-90deg);
+  flex-shrink: 0;
+  margin-left: 1px !important;
+}
+
+.arrow-left-mobile {
+  width: 22px !important;
+  height: 22px !important;
+  transform: rotate(-90deg);
+  flex-shrink: 0;
+  margin-left: 1px !important;
+}
+
+.box-layout {
+  width: 887px;
+  height: 734px;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0px 5px 10px 0px rgba(0, 64, 128, 0.04);
+  margin-left: 24px !important;
+}

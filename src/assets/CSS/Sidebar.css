@@ -1,0 +1,95 @@
+.body-name{
+    color: var(--text-1, #1E1F20) !important;
+
+/* h2 (Extrabold) */
+font-size: 24px !important;
+font-family: Mulish !important ;
+font-weight: 800 !important;
+line-height: 40px !important;
+}
+.main-layout {
+    margin: 20px 142px 134px 142px !important;
+    display: flex;
+}
+.body-layout{
+    width: 245px;
+  height: 734px;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0px 5px 10px 0px rgba(0, 64, 128, 0.04);
+}
+.medi-bo{
+    padding: 33px 30px 0px 29px !important;
+  display: flex;
+  color: var(--primary-1, #3093bb);
+  /* color: var(--text-2, #9393aa); */
+}
+.m-slote{
+    width: 22px;
+    height: 22px;
+
+}
+.time-slot{
+    font-size: 15px !important;
+    font-family: Mulish !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    margin-left: 10px !important;
+    white-space: nowrap;
+
+}
+.arrow-left-time{
+    width: 22px !important;
+  height: 22px !important;
+  transform: rotate(-90deg);
+  flex-shrink: 0;
+  margin-left: 60px !important;
+
+}
+.lab-box{
+    padding: 33px 30px 0px 29px !important;
+  display: flex;
+  color: var(--text-2, #9393aa) !important;
+}
+.d-box{
+    padding: 33px 30px 0px 29px !important;
+  display: flex;
+  color: var(--text-2, #9393aa);
+}
+.arrow-left-bank {
+    width: 22px !important;
+    height: 22px !important;
+    transform: rotate(-90deg);
+    flex-shrink: 0;
+    margin-left: 61px !important;
+  }
+  
+  .arrow-left-lock {
+    width: 22px !important;
+    height: 22px !important;
+    transform: rotate(-90deg);
+    flex-shrink: 0;
+    margin-left: 35px !important;
+  }
+  .arrow-left-mobile {
+    width: 22px !important;
+    height: 22px !important;
+    transform: rotate(-90deg);
+    flex-shrink: 0;
+    margin-left: 53px !important;
+  }
+  .n-box{
+    padding: 33px 30px 0px 29px !important;
+  display: flex;
+  color: var(--text-2, #9393aa);
+  }
+  .box-layout {
+    width: 887px;
+    height: 734px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    background: #fff;
+    box-shadow: 0px 5px 10px 0px rgba(0, 64, 128, 0.04);
+    margin-left: 24px !important;
+  }

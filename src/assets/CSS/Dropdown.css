@@ -1,0 +1,51 @@
+.dropdown-box {
+  position: absolute;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  width: 246px;
+  left: 1050px;
+  top: 75px;
+  background: #ffffff;
+  box-shadow: 0px 5px 10px rgba(0, 64, 128, 0.04);
+  border-radius: 16px;
+  z-index: 9999;
+}
+
+.css-h4y409-MuiList-root {
+  padding: 0px 0px 0px 0px !important;
+  position: absolute !important;
+}
+
+.css-1p823my-MuiListItem-root {
+  padding: 0px 0px 0px 0px !important;
+}
+
+.css-10hburv-MuiTypography-root {
+  height: 24px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 400 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  color: #1e1f20;
+  width: 69px;
+  white-space: nowrap;
+  margin: 20px 0px 20px 0px !important;
+}
+
+.css-tlelie-MuiListItemText-root {
+  margin: 0px 0px 0px 0px !important;
+}
+
+.dashboard-image {
+  width: 32px;
+  height: 32px;
+  margin: 16px 13px 16px 16px !important;
+}
+
+.divider {
+  width: 246px;
+  height: 1px;
+  border-color: #f0f0f0 !important;
+}

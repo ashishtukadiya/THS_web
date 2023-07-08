@@ -1,0 +1,61 @@
+.main-box {
+  position: absolute;
+  width: 408px;
+  margin: 431px 529px 225px 470px !important;
+}
+
+.welcome-icon {
+  position: absolute;
+  width: 136px;
+  height: 136px;
+  margin: 0px 136px 0px 136px;
+}
+
+.welcome-to-THS {
+  width: 408px;
+  height: 80px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 800 !important;
+  font-size: 24px !important;
+  line-height: 40px !important;
+  text-align: center;
+  color: #1e1f20;
+  margin-top: 157px !important;
+}
+
+.welcome-sub-title {
+  width: 408px;
+  height: 80px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 800 !important;
+  font-size: 24px !important;
+  line-height: 40px !important;
+  text-align: center;
+  color: #1e1f20;
+}
+
+.sub-text {
+  font-style: normal;
+  font-weight: 400 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #f8446c;
+  width: 303px;
+  height: 48px;
+  margin: 18px 52px 0px 53px !important;
+}
+
+.request-text {
+  width: 291px;
+  height: 48px;
+  font-style: normal;
+  font-weight: 400 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #9393AA;
+  margin: 17px 58px 225px 59px !important;
+}

@@ -1,0 +1,251 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@700&display=swap");
+
+.signup-page {
+  margin: 130px 142px 131px 142px;
+}
+
+.signup-title {
+  position: absolute;
+  width: 337px;
+  height: 40px;
+  font-weight: 800 !important;
+  font-family: "Mulish" !important;
+  color: #1e1f20;
+  font-size: 32px !important;
+  line-height: 40px !important;
+}
+
+.signup-subtitle {
+  position: absolute;
+  height: 24px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  color: #1e1f20;
+  margin: 47px 326px 723px 0px !important;
+}
+
+.first-name {
+  position: absolute !important;
+  height: 16px;
+  margin: 103px 381px 644px 0px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  color: #1e1f20 !important;
+  display: block;
+}
+
+.signup-field-name {
+  box-sizing: border-box;
+  width: 212px;
+  position: absolute !important;
+  background: #ffffff;
+  border: 1px solid #f0f0f0 !important;
+  border-radius: 8px;
+  margin: 123px 236px 592px 0px !important;
+  height: 48px;
+}
+
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  border: none !important;
+}
+
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+  box-sizing: content-box !important;
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  width: 30px;
+  height: 24px !important;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  color: #1e1f20 !important;
+  margin: 12px 0px 12px 16px !important;
+  padding: 0px !important;
+}
+
+.last-name {
+  position: absolute !important;
+  height: 16px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  color: #1e1f20 !important;
+  margin: 103px 145px 644px 236px;
+}
+
+.signup-field-lastname {
+  box-sizing: border-box;
+  width: 212px;
+  position: absolute !important;
+  background: #ffffff;
+  border: 1px solid #f0f0f0 !important;
+  border-radius: 8px;
+  margin: 123px 0px 592px 236px !important;
+  height: 48px;
+}
+
+.mobile-number {
+  position: absolute !important;
+  height: 16px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  color: #1e1f20 !important;
+  margin: 195px 355px 552px 0px !important;
+}
+
+.signup-field-number {
+  position: absolute !important;
+  width: 448px;
+  margin: 215px 0px 500px 0px !important;
+  background: #ffffff;
+  border: 1px solid #f0f0f0 !important;
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 48px;
+}
+
+.email {
+  position: absolute !important;
+  height: 16px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  color: #1e1f20 !important;
+  margin: 287px 414px 460px 0px !important;
+}
+
+.signup-field-email {
+  position: absolute !important;
+  width: 448px;
+  margin: 307px 0px 408px 0px !important;
+  background: #ffffff;
+  border: 1px solid #f0f0f0 !important;
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 48px;
+}
+
+.password {
+  position: absolute !important;
+  height: 16px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  color: #1e1f20 !important;
+  margin: 379px 387px 368px 0px !important;
+}
+
+.signup-field-password {
+  position: absolute !important;
+  width: 448px;
+  margin: 399px 0px 316px 0px !important;
+  background: #ffffff;
+  border: 1px solid #f0f0f0 !important;
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 48px;
+}
+
+.confirm-password {
+  position: absolute !important;
+  height: 16px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  color: #1e1f20 !important;
+  margin: 471px 336px 276px 0px !important;
+}
+
+.signup-field-cpass {
+  position: absolute !important;
+  width: 448px;
+  margin: 491px 0px 224px 0px !important;
+  background: #ffffff;
+  border: 1px solid #f0f0f0 !important;
+  border-radius: 8px;
+  box-sizing: border-box;
+  border-color: none !important;
+  height: 48px;
+}
+
+.signup-btn {
+  margin-top: 571px !important;
+  width: 448px !important;
+  height: 50px !important;
+  background: linear-gradient(45deg, #3093bb 0%, #82dbff 100%) !important;
+  border-radius: 12px !important;
+}
+
+.signup-text {
+  position: absolute;
+  height: 24px;
+  top: calc(50% - 24px / 2);
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #ffffff;
+  text-transform: none;
+}
+
+.signup-description {
+  position: absolute;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px !important;
+  line-height: 22px !important;
+  text-align: center;
+  color: #1e1f20;
+  width: 327px;
+  height: 44px;
+  margin: 24px 60px 74px 61px !important;
+}
+
+.color {
+  color: rgba(48, 147, 187, 1);
+}
+
+.signup-link {
+  position: absolute;
+  height: 24px;
+  top: calc(50% - 24px / 2 + 369px);
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #f8446c;
+  margin: 0px 111px 0px 111px !important;
+}
+
+.log-in {
+  color: #f8446c !important;
+  text-decoration-color: #f8446c !important;
+}
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused.MuiOutlinedInput-notchedOutline:focus {
+  border-color: none !important;
+}

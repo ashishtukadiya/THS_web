@@ -1,0 +1,384 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@700&display=swap");
+
+.signup-page {
+  margin: 130px 0px;
+}
+.signup-title {
+  font-weight: 800 !important;
+  font-family: "Mulish" !important;
+  color: #1e1f20;
+  font-size: 32px !important;
+  line-height: 40px !important;
+  margin: 0px !important;
+}
+.signup-subtitle {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  color: #1e1f20;
+  padding-top: 7px;
+  margin: 0px !important;
+}
+.signUp-form {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.textfield-grid {
+  display: flex;
+  gap: 24px;
+}
+
+.textfield-name {
+  margin-bottom: 4px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  color: #1e1f20 !important;
+  display: block;
+}
+.signup-field-name {
+  box-sizing: border-box;
+  width: 212px;
+  height: 48px;
+  background: #ffffff;
+  border: 1px solid #f0f0f0 !important;
+  border-radius: 8px;
+}
+
+.signUp-form .css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  border: none !important;
+  top: 0px !important;
+}
+.signup-page .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  color: #1e1f20;
+  padding: 12px;
+}
+
+.signup-field-lastname {
+  box-sizing: border-box;
+  width: 212px;
+  height: 48px;
+  background: #ffffff;
+  border: 1px solid #f0f0f0 !important;
+  border-radius: 8px;
+}
+.form-fields {
+  /* display: flex;
+  flex-direction: column;
+  gap: 24px; */
+}
+.signUp-form-control {
+  display: flex;
+  flex-direction: column;
+}
+.signUp-form-label {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  color: #1e1f20 !important;
+}
+
+.signUp-form-field {
+  width: 448px;
+  background: #ffffff;
+  border: 1px solid #f0f0f0 !important;
+  border-radius: 8px !important;
+  box-sizing: border-box;
+  padding: 12px;
+  margin-top: 4px;
+}
+.signUp-form-field .css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 8px;
+}
+.signUp-form-field .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  color: #1e1f20;
+  padding: 12px;
+  margin-top: 4px;
+}
+.signup-btn {
+  width: 448px !important;
+  height: 50px !important;
+  background: linear-gradient(45deg, #3093bb 0%, #82dbff 100%) !important;
+  border-radius: 12px !important;
+}
+.signUp-form-btn {
+  margin-top: 34px;
+}
+.signup-text {
+  height: 24px;
+  top: calc(50% - 24px / 2);
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  text-transform: none !important;
+}
+
+.signup-description {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px !important;
+  line-height: 22px !important;
+  text-align: center;
+  color: #1e1f20;
+  width: 327px;
+  padding: 24px 61px 50px 61px;
+}
+
+.color {
+  color: rgba(48, 147, 187, 1);
+}
+
+.signup-link {
+  height: 24px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #f8446c;
+}
+
+.log-in {
+  color: #f8446c !important;
+  text-decoration-color: #f8446c !important;
+}
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused.MuiOutlinedInput-notchedOutline:focus {
+  border-color: none !important;
+}
+
+/*--------------------------------------------- Modals CSS ---------------------------------------------------*/
+
+/* ----MOBILE VERIFICATION ----- */
+
+.verification-body {
+  backdrop-filter: blur(2px);
+  background: rgba(50, 59, 75, 0.3);
+}
+
+.verification-box {
+  background: #ffffff;
+  padding: 24px 24px 30px 24px;
+}
+
+.verification-title {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 20px !important;
+  line-height: 32px !important;
+  color: #1e1f20;
+}
+
+.verification-subtitle {
+  height: 24px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  color: #1e1f20;
+  margin-top: 10px !important;
+}
+
+.input-code {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.text-box {
+  box-sizing: border-box;
+  border: 1px solid #3093bb !important;
+  border-radius: 12px !important;
+  width: 48px !important;
+  height: 56px !important;
+  margin-right: 8px !important;
+}
+
+.text-box .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 20px !important;
+  line-height: 32px !important;
+  text-align: center;
+  color: #1e1f20 !important;
+  padding: 13px 14px;
+}
+
+.text-box .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  border: none !important;
+  width: 48px;
+}
+
+.resend {
+  padding-top: 24px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #f8446c;
+}
+.signUp-modal-btn {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 38px;
+}
+.signUp-modal-btn .css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+  border-radius: 12px;
+  padding: 13px 52.95px 13px 52.5px;
+  border: 1px solid #e0e0e0;
+  background: none !important;
+  font-family: "Mulish";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #9393aa;
+  text-transform: none;
+  margin-right: 24px;
+}
+.signUp-modal-btn .css-sghohy-MuiButtonBase-root-MuiButton-root {
+  padding: 13px 55.95px 13px 55.5px;
+  border-radius: 12px;
+  background: linear-gradient(45deg, #3093bb 0%, #82dbff 100%);
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.signUp-verify-modal {
+  margin-top: 30px;
+}
+
+/* ------VERIFIED ------*/
+
+.verified-body {
+  backdrop-filter: blur(2px);
+  background: rgba(50, 59, 75, 0.3);
+}
+
+.verified-box {
+  background: #ffffff;
+  padding: 22px 24px 30px 24px;
+}
+
+.close-btn {
+  width: 32px !important;
+  height: 32px !important;
+  float: right;
+  /* left: calc(50% - 32px / 2 + 151px) !important;
+  top: calc(50% - 32px / 2 - 168px) !important; */
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+}
+
+.close-icon {
+  width: 13.93px;
+  height: 13.93px;
+  margin: 9.04px 9.03px;
+}
+.success-modal {
+  padding-top: 30px;
+}
+.success-icon {
+  margin: 0px 131px 0px 131px;
+}
+
+.welcome-box {
+  /* margin: 155px 62px 10px 58px !important; */
+}
+
+.welcome-text {
+  padding-top: 30px;
+  margin: auto !important;
+  width: 258px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 20px !important;
+  line-height: 32px !important;
+  text-align: center;
+  color: #1e1f20;
+  letter-spacing: 0px !important;
+}
+
+.detail-box {
+  margin: 0px 44px 40px 41px !important;
+  padding-top: 10px;
+}
+
+.detail-text {
+  font-style: normal;
+  font-weight: 400 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #f8446c !important;
+  width: 293px;
+  height: 48px;
+}
+
+/* .fill-profile-btn {
+  padding: 17px 101.21px 16px 101.79px !important;
+  text-align: center;
+  font-size: 15px !important;
+  font-family: "Mulish" !important;
+  font-weight: 700 !important;
+  line-height: 24px !important;
+  text-transform: none !important;
+  border-radius: 12px !important;
+  background: var(--gradient, linear-gradient(45deg, #3093bb 0%, #82dbff 100%));
+}
+
+.fill-btn  {
+ display: flex;
+ justify-content: center;
+} */
+
+.fill-text-btn {
+  background: linear-gradient(45deg, #3093bb 0%, #82dbff 100%);
+  border-radius: 12px !important;
+  width: 330px;
+  height: 57px;
+  margin: 0px 24px 30px 24px !important;
+}
+
+.fill-text {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #ffffff;
+  height: 24px;
+  text-transform: none;
+  position: absolute;
+}

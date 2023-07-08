@@ -1,0 +1,158 @@
+.cancel-popup-body {
+  backdrop-filter: blur(2px);
+  background: rgba(50, 59, 75, 0.3);
+}
+
+.cancel-popup-box {
+  background: #ffffff;
+}
+
+.css-bew3up {
+  padding: 0px !important;
+}
+
+:focus-visible {
+  outline: none !important;
+}
+
+.cancel-title {
+  color: var(--text-1, #1e1f20);
+  text-align: center;
+  margin: 24px 225px 0px 24px !important;
+  font-size: 20px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 32px !important;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.cancel-checkbox-container1 {
+  display: flex;
+  align-items: center;
+  margin: 80px 0px 0px 24px;
+}
+
+.cancel-checkbox-container2 {
+  display: flex;
+  align-items: center;
+  margin: 24px 0px 0px 24px;
+}
+
+.cancel-checkbox {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+.cancel-reason {
+  color: var(--text-1, #1e1f20);
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 500 !important;
+  line-height: 24px;
+  margin-left: 16px !important;
+  width: 283px;
+  text-align: left !important;
+}
+
+/* input:not([type="range"]):not([type="color"]) {
+  writing-mode: none !important;
+} */
+
+.optional-note {
+  display: flex;
+  width: 327px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: var(--text-1, #1e1f20);
+  height: 16px;
+  font-size: 13px !important;
+  font-family: Mulish !important;
+  font-weight: 600 !important;
+  line-height: 16px;
+  margin: 20px 71px 0px 24px !important;
+}
+
+.cancel-text-field {
+  width: 374px;
+  height: 110px !important;
+  flex-shrink: 0;
+  background: rgba(240, 240, 240, 1) !important;
+  margin: 4px 24px 0px 24px !important;
+}
+
+.css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root {
+  padding: 9px 13px !important;
+}
+
+.css-1sqnrkk-MuiInputBase-input-MuiOutlinedInput-input {
+  background: none !important;
+}
+
+.css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused
+  .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0, 0, 0, 0.23) !important;
+  border-width: 1px !important;
+}
+
+.css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root:hover
+  .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0, 0, 0, 0.23) !important;
+  border-width: 1px !important;
+}
+
+.text-limit {
+  color: var(--text-2, #9393aa);
+  font-size: 11px !important;
+  font-family: Mulish !important;
+  line-height: 14px;
+  margin: 8px 24px 0px 368px !important;
+}
+
+.cancel-popup-btn {
+  display: flex;
+  width: 175px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  margin: 24px 24px 30px 24px !important;
+  border-radius: 12px !important;
+  border: 1px solid #e0e0e0 !important;
+  background: var(--text-0, #fff) !important;
+}
+
+.cancel-popup-text {
+  color: var(--text-2, #9393aa);
+  text-align: center;
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 24px;
+  margin: 13px 64.16px 13px 62.84px !important;
+  text-transform: none;
+}
+
+.submit-popup-btn {
+  width: 175px;
+  height: 50px;
+  flex-shrink: 0;
+  border-radius: 12px !important;
+  background: var(
+    --gradient,
+    linear-gradient(45deg, #3093bb 0%, #82dbff 100%)
+  ) !important;
+  margin: 24px 24px 30px 0px !important;
+}
+
+.submit-popup-text {
+  color: #fff;
+  text-align: center;
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 24px;
+  margin: 13px 64.16px 13px 61.84px !important;
+  text-transform: none;
+}

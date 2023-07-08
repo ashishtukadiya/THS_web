@@ -1,0 +1,53 @@
+.medi-box{
+
+    display: flex;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.medi-line{
+    width: 6px;
+  height: 19px;
+  flex-shrink: 0;
+  border-radius: 2px;
+  background:  var(--primary-1, #3093BB);
+  margin-top: 30px;
+
+
+}
+.medi-title{
+    color: var(--text-1, #1e1f20);
+  font-size: 20px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 32px !important;
+  margin-top: 22px !important;
+  margin-left: 11px !important;
+  white-space: nowrap;
+
+}
+.medicine{
+    margin-top: 41px !important;
+    margin-left: 52px !important;
+
+}
+.t{
+    color: var(--text-1, #1E1F20) !important;
+
+/* Base 1 (Semibold) */
+font-size: 15px !important;
+font-family: Mulish !important;
+font-weight: 600 !important;
+line-height: 24px !important;
+float: left;
+padding-right: 16px;
+}
+.serch-text{
+
+width: 391px;
+height: 44px;
+border-radius: 8px !important;
+background: var(--background, #F8FBFF) !important;
+
+
+
+}

@@ -1,0 +1,118 @@
+.verification-body {
+  backdrop-filter: blur(2px);
+  background: rgba(50, 59, 75, 0.3);
+}
+
+.verification-box {
+  background: #ffffff;
+}
+
+.verification-title {
+  height: 32px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 20px !important;
+  line-height: 32px !important;
+  color: #1e1f20;
+  margin-top: 24px !important;
+}
+
+.verification-subtitle {
+  height: 24px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  color: #1e1f20;
+  margin-top: 10px !important;
+}
+
+.input-code {
+  margin: 30px 81px 24px 81px !important;
+  display: flex;
+}
+
+.text-box {
+  box-sizing: border-box;
+  border: 1px solid #3093bb !important;
+  border-radius: 12px !important;
+  width: 48px !important;
+  height: 56px !important;
+  margin-right: 8px !important;
+}
+
+.text-box .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 20px !important;
+  line-height: 32px !important;
+  text-align: center;
+  color: #1e1f20 !important;
+}
+
+.text-box .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input  {
+  border: none !important;
+  width: 48px;
+  height: 32px !important;
+  margin: 13px 0px 11px 0px !important;
+}
+
+.resend {
+  height: 24px;
+ font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #f8446c;
+}
+
+.cancel-btn {
+  box-sizing: border-box;
+  position: absolute;
+  background: #ffffff;
+  border: 1px solid #e0e0e0 !important;
+  border-radius: 12px !important;
+  width: 153px;
+  height: 50px;
+  margin: 30px 24px 30px 24px !important;
+}
+
+.cancel-text {
+  height: 24px;
+  top: calc(50% - 24px / 2);
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #9393aa;
+  text-transform: none;
+}
+
+.verify-btn {
+  position: absolute !important;
+  background: linear-gradient(45deg, #3093bb 0%, #82dbff 100%);
+  border-radius: 12px !important;
+  width: 153px;
+  height: 50px;
+  margin: 30px 24px 30px 0px !important;
+}
+
+.verify-text {
+  height: 24px;
+  top: calc(50% - 24px / 2);
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #ffffff;
+  text-transform: none;
+}

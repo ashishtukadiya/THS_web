@@ -1,0 +1,287 @@
+.view-popup-body {
+  backdrop-filter: blur(2px);
+  background: rgba(50, 59, 75, 0.3);
+}
+
+.view-popup-box {
+  background: #ffffff;
+}
+
+.css-ceg5tk {
+  padding: 0px !important;
+  -webkit-transform: none !important;
+}
+
+.css-pm6vo1 {
+  padding: 0px !important;
+}
+
+.css-1tkbsl5 {
+  padding: none !important;
+}
+
+:focus-visible {
+  outline: none !important;
+}
+
+.view-box-modal {
+  margin: 28px 12px 0px 24px !important;
+  display: flex;
+}
+
+.view-logo {
+  width: 32px;
+  height: 32px;
+  flex-shrink: 0;
+}
+
+.view-title {
+  color: var(--text-1, #1e1f20);
+  font-size: 20px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 32px !important;
+  margin-left: 16px !important;
+}
+
+.status-box {
+  display: flex;
+  margin: 4px 6px 0px 68px !important;
+}
+
+.view-id {
+  color: var(--secondary-2, #f8446c);
+  font-size: 14px;
+  font-family: Mulish;
+  font-weight: 600;
+  line-height: 24px !important;
+  white-space: nowrap;
+}
+
+.status {
+  display: inline-flex;
+  justify-content: center;
+  padding: 0px 6px;
+  align-items: center;
+  border-radius: 6px;
+  font-size: 15px !important;
+  background: #2fc08b;
+  margin-left: 6px !important;
+  color: #ffffff;
+}
+
+.scroll-box {
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 308px;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.scroll-box::-webkit-scrollbar {
+  display: none;
+}
+
+.patient-detail-box {
+  display: flex;
+  margin: 24px 0px 0px 24px !important;
+}
+
+.patient-title {
+  color: var(--text-2, #9393aa);
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 24px !important;
+  margin-right: 298px !important;
+  white-space: nowrap;
+}
+
+.patient-consultation {
+  color: var(--text-2, #9393aa);
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 24px !important;
+  margin-right: 199px !important;
+  white-space: nowrap;
+}
+
+.patient-consultation-date {
+  color: var(--text-2, #9393aa);
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 24px !important;
+  margin-right: 145px !important;
+  white-space: nowrap;
+}
+
+.patient-fee {
+  color: var(--text-2, #9393aa);
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 24px !important;
+  margin-right: 338px !important;
+  white-space: nowrap;
+}
+
+.patient-prescription {
+  color: var(--text-2, #9393aa);
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 24px !important;
+  margin-right: 251px !important;
+  white-space: nowrap;
+}
+
+.patient-name {
+  color: var(--text-1, #1e1f20);
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 600 !important;
+  line-height: 24px !important;
+  margin: 0px 24px 0px 0px !important;
+  white-space: nowrap;
+}
+
+.patient-detail {
+  color: var(--text-2, #9393aa);
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 600 !important;
+  line-height: 24px !important;
+  margin: 0px 24px 0px 394px !important;
+  white-space: nowrap;
+}
+
+.divider-detail {
+  width: 414px;
+  height: 0px;
+  flex-shrink: 0;
+  margin: 20px 24px 20px 24px !important;
+  align-items: center;
+}
+
+.view-form {
+  display: flex;
+  width: 77px;
+  height: 28px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 6px !important;
+  border: 1px solid var(--secondary-3, #24b2b2) !important;
+  background: #fff !important;
+}
+
+.view-name {
+  color: var(--secondary-3, #24b2b2) !important;
+  text-align: right;
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 600 !important;
+  line-height: 24px !important;
+  text-transform: none;
+}
+
+.patient-test {
+  color: var(--text-2, #9393aa);
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 24px !important;
+  margin-right: 322px !important;
+  white-space: nowrap;
+}
+
+.test-example {
+  color: var(--text-1, #1e1f20);
+  text-align: right;
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 600 !important;
+  line-height: 24px !important;
+  margin: 0px 24px 0px 0px !important;
+}
+
+.patient-doc-recommend {
+  color: var(--text-2, #9393aa);
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 24px !important;
+  margin-right: 170px !important;
+  white-space: nowrap;
+}
+
+.patient-doc-name {
+  color: var(--text-1, #1e1f20);
+  text-align: right;
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 600 !important;
+  line-height: 24px !important;
+  margin: 0px 24px 0px 0px !important;
+}
+
+.close-popup-btn {
+  display: flex;
+  width: 195px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  margin: 0px 24px 0px 24px !important;
+  border-radius: 12px !important;
+  border: 1px solid #e0e0e0 !important;
+  background: var(--text-0, #fff) !important;
+}
+
+.close-popup-text {
+  color: var(--text-2, #9393aa);
+  text-align: center;
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 24px !important;
+  margin: 13px 78.26px 13px 77.74px !important;
+  text-transform: none;
+}
+
+.open-chat-box {
+  display: flex;
+  margin: 24px 24px 30px 0px !important;
+}
+
+.open-chat-popup-btn {
+  width: 195px;
+  height: 50px;
+  flex-shrink: 0;
+  border-radius: 12px !important;
+  background: var(
+    --gradient,
+    linear-gradient(45deg, #3093bb 0%, #82dbff 100%)
+  ) !important;
+}
+
+.open-chat-icon {
+  margin: 13px 0px 13px 41px !important;
+  width: 24px;
+  height: 24px;
+}
+
+.open-chat-popup-text {
+  color: #fff;
+  text-align: center;
+  font-size: 15px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 24px !important;
+  margin: 13px 41px 13px 5px !important;
+  text-transform: none;
+  white-space: nowrap;
+}

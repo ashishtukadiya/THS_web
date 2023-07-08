@@ -1,0 +1,302 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@700&display=swap");
+
+.work-container {
+  margin: 0px 142px !important;
+  
+}
+
+.skip {
+  margin-top: 62px !important;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 14px !important;
+  line-height: 24px !important;
+  text-align: right !important;
+  color: #1e1f20;
+  cursor: pointer;
+}
+
+.step {
+  padding-top: 44px !important;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  color: #1e1f20;
+}
+
+.basic-info {
+  margin-top: 7px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 800 !important;
+  font-size: 24px !important;
+  line-height: 40px !important;
+  color: #1e1f20;
+}
+
+.profile-progress-box {
+  margin-top: 10px !important;
+  background: #ffffff;
+  border: 1px dashed #24b2b2;
+  border-radius: 8px !important;
+  display: flex;
+  height: 44px;
+  width: 448px;
+}
+
+.profile-title {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  color: #1e1f20;
+  margin-top: 10px !important;
+  margin-left: 10px !important;
+}
+
+.profile-progress-bar {
+  margin-top: 10px !important;
+  margin: 0px 9px;
+  background: #ededed;
+  border-radius: 100px;
+  height: 6px;
+  width: 260px;
+}
+.progress-linebar {
+  background: #24b2b2;
+  border-radius: 100px;
+  width: 80px;
+  height: 6px;
+}
+
+.profile-txt {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 500 !important;
+  font-size: 10px !important;
+  line-height: 12px !important;
+  color: #9393aa;
+  padding-top: 6px !important;
+}
+
+.profile-percentage {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: right !important;
+  color: #f8446c;
+  padding-top: 10px !important;
+}
+
+.avatar-box {
+  margin-top: 32px !important ;
+  display: flex;
+}
+
+.avatar-img {
+  height: 112px;
+  width: 112px;
+  border-radius: 30%;
+}
+
+.avatar-btn {
+  margin-left: 24px !important;
+  background: #24b2b2 !important;
+  border-radius: 8px !important;
+  color: #ffffff;
+  padding: 10px 16px !important;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  text-transform: none !important;
+}
+
+.avatar-btn-txt {
+  font-family: "Mulish" !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  text-align: center !important;
+  color: #ffffff;
+  white-space: nowrap;
+  position: absolute !important;
+  width: 120px !important;
+  height: 16px !important;
+  margin: 10px 16px !important;
+}
+
+.avatar-txt {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 400 !important;
+  font-size: 13px !important;
+  line-height: 22px !important;
+  color: #9393aa;
+  padding-left: 24px;
+  padding-top: 12px;
+}
+.birthday-box {
+  padding-top: 32px;
+}
+.birthday-txt {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  color: #1e1f20 !important;
+}
+
+.birthday-field {
+  background: #ffffff !important;
+  border: 1px solid #f0f0f0 !important;
+  border-radius: 8px !important;
+  width: 448px !important;
+  padding-top: 4px;
+}
+.birthday-field .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  padding: 15px 14px;
+}
+.state-container {
+  padding-top: 24px;
+  display: flex;
+}
+
+.state {
+  position: absolute !important;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  color: #1e1f20 !important;
+}
+
+.state-field {
+  background: #ffffff;
+  border: 1px solid #f0f0f0 !important;
+  border-radius: 8px !important;
+  width: 212px !important;
+
+  margin-top: 20px !important ;
+}
+
+.city {
+  position: absolute !important;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  color: #1e1f20 !important;
+  padding-left: 24px !important;
+}
+.city-field {
+  background: #ffffff !important;
+  border: 1px solid #f0f0f0 !important;
+  border-radius: 8px !important;
+  margin-top: 20px !important;
+  margin-left: 24px !important;
+  width: 212px !important;
+}
+
+hr{
+  background: var(--border-color, #F0F0F0) !important;
+  border: none;
+  height: 1px;
+  width: 186px;
+}
+.gender-box {
+  margin-top: 24px;
+  margin-bottom: 40px;
+}
+
+.gender {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  color: #1e1f20 !important;
+}
+
+.gender-field {
+  margin-top: 24px;
+  display: flex;
+}
+
+.male-box {
+  padding: 20px 22px;
+  border-radius: 20px;
+  transition: background-color 0.3s ease;
+  background: #24b2b2;
+}
+.male-box2 {
+  padding: 20px 22px;
+  border-radius: 20px;
+  transition: background-color 0.3s ease;
+  background: #ffffff;
+}
+.male-txt {
+  margin-top: 16px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 13px !important;
+  line-height: 22px !important;
+  text-align: center;
+  color: #1e1f20 !important;
+}
+
+.gender-text-field {
+  display: grid;
+  text-align: center;
+  padding: 0px 12px 0px 12px;
+  margin-right: 24px;
+}
+
+.female-box {
+  border: 1px solid #f0f0f0;
+  background: #ffffff;
+  padding: 20px 22px;
+  border-radius: 20px;
+}
+.female-box2 {
+  padding: 20px 22px;
+  border-radius: 20px;
+  background: #24b2b2;
+}
+
+.female-txt {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 400 !important;
+  font-size: 13px !important;
+  line-height: 22px !important;
+  text-align: center !important;
+  color: #1e1f20 !important;
+  margin-top: 16px;
+}
+
+.continue-button {
+  width: 448px !important;
+  height: 50px !important;
+  background: linear-gradient(45deg, #3093bb 0%, #82dbff 100%) !important;
+  border-radius: 12px !important;
+  text-transform: none !important;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+}

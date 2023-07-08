@@ -1,0 +1,111 @@
+.THS-verify-modal {
+  width: 354px;
+  background: #ffffff;
+  padding: 24px 24px 30px 24px;
+  border-radius: 16px;
+}
+.THS-psw-modal {
+  width: 378px;
+  background: #ffffff;
+  border-radius: 16px;
+}
+.psw-field {
+  margin-top: 30px;
+}
+.psw-label {
+  display: block;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  color: #1e1f20 !important;
+  margin-bottom: 4px;
+}
+.psw-textfield .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  background: #ffffff;
+  border: 1px solid #f0f0f0;
+  border-radius: 8px;
+  width: 320px;
+  padding: 12px 16px;
+}
+.psw-verify-btn {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.psw-verify-btn .css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 13px 52px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  text-transform: none;
+  color: #9393aa;
+}
+.psw-verify-btn .css-sghohy-MuiButtonBase-root-MuiButton-root {
+  background: linear-gradient(45deg, #3093bb 0%, #82dbff 100%);
+  border-radius: 12px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  padding: 13px 0px;
+  padding-left: 41.5px;
+  padding-right: 40.95px;
+}
+.psw-OTP-fileld {
+  display: flex;
+  justify-content: center;
+  margin-top: 38px;
+}
+.resend-psw {
+  text-align: center;
+  margin-top: 24px;
+}
+.resend-btn {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  color: #f8446c !important;
+}
+.resend-btn:hover {
+  background-color: unset !important;
+}
+.psw-OTP-btn {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.psw-OTP-btn .css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 13px 58px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  text-transform: none;
+  color: #9393aa;
+}
+.psw-OTP-btn .css-sghohy-MuiButtonBase-root-MuiButton-root {
+  background: linear-gradient(45deg, #3093bb 0%, #82dbff 100%);
+  border-radius: 12px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  padding: 13px 55px;
+  /* padding-left: 41.5px;
+  padding-right: 40.95px; */
+}

@@ -1,0 +1,97 @@
+.warning-box {
+  width: 379px;
+  height: 374px;
+  position: absolute;
+  margin: 466px 530px 184px 485px !important;
+}
+
+.warning-icon {
+  position: absolute;
+  width: 116px;
+  height: 116px;
+  margin: 0px 132px 0px 131px;
+}
+
+.warning-text {
+  position: absolute;
+  height: 32px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 20px !important;
+  line-height: 32px !important;
+  width: 379px;
+  text-align: center;
+  color: #1e1f20;
+  margin-top: 146px !important;
+  white-space: nowrap;
+}
+
+.warning-sub-text {
+  height: 48px;
+  position: absolute;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  width: 281px;
+  text-align: center;
+  color: #f8446c;
+  margin: 188px 49px 0px 49px !important;
+}
+
+.warning-message {
+  position: absolute;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #9393aa;
+  width: 291px;
+  height: 48px;
+  margin: 246px 45px 80px 43px !important;
+}
+
+.fill-btn {
+  position: absolute;
+  background: linear-gradient(45deg, #3093bb 0%, #82dbff 100%) !important;
+  border-radius: 12px !important;
+  width: 330px;
+  height: 50px;
+  margin: 324px 25px 184px 24px !important;
+}
+
+.fill-message {
+  width: 127px;
+  height: 24px;
+  position: absolute;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #ffffff;
+  margin: 13px 101.22px 13px 101.78px !important;
+  white-space: nowrap;
+  text-transform: none;
+}
+
+.schedule-message {
+    width: 197px;
+    height: 24px;
+    position: absolute;
+    font-family: "Mulish" !important;
+    font-style: normal;
+    font-weight: 700 !important;
+    font-size: 15px !important;
+    line-height: 24px !important;
+    text-align: center;
+    color: #ffffff;
+    margin: 13px 66.22px 13px 66.78px !important;
+    white-space: nowrap;
+    text-transform: none;
+  }

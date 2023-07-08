@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@700&display=swap");
+
+.verification-body {
+  backdrop-filter: blur(2px);
+  background: rgba(50, 59, 75, 0.3);
+}
+
+
+.verified-box {
+    background: #ffffff !important;
+    border-radius: 16px !important;
+    width: 378px !important;
+    height: 436px !important;
+    border-color: none !important;
+    padding: 0px !important;
+  }
+
+  .close-btn {
+    margin: 22px 22px 0px 324px;
+    width: 32px !important;
+    height: 32px !important;
+    left: calc(50% - 32px / 2 + 151px) !important;
+    top: calc(50% - 32px / 2 - 168px) !important;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .close-icon {
+    width: 13.93px;
+    height: 13.93px;
+    margin: 9.04px 9.03px;
+  }
+  
+  
+
+.right-box{
+    background: linear-gradient(45deg, #3093BB 0%, #82DBFF 100%);
+    width: 116px;
+    height: 116px;
+    border-radius: 50%;
+    margin-top: 2px;
+    margin-left: 131px;
+   
+
+}
+.right{
+    margin: 43px 36px 37px 35px !important;
+}
+
+.submit-txt{
+    font-family: 'Mulish' !important;
+font-style: normal;
+font-weight: 700 !important;
+font-size: 20px !important;
+line-height: 32px !important;
+text-align: center !important;
+color: #1E1F20 !important;
+margin: 0px 25px !important;
+white-space: nowrap;
+padding-top: 30px;
+}
+
+.info-box{
+margin: 10px 39px 0px 40px !important;
+}
+
+.info-txt-msg{
+font-style: normal;
+font-weight: 400 !important;
+font-size: 15px !important;
+line-height: 24px !important;
+text-align: center !important;
+color: #F8446C !important;
+}
+
+.setup-btn {
+    width: 330px !important;
+    height: 50px !important;
+    background: linear-gradient(45deg, #3093bb 0%, #82dbff 100%) !important;
+    border-radius: 12px !important;
+    text-transform: none !important;
+    /* margin-top: 40px !important; */
+    margin-left: 24px !important;
+    margin-right: 24px !important;
+    /* margin-bottom: 30px !important; */
+    font-family: "Mulish" !important;
+    font-style: normal;
+    font-weight: 700 !important;
+    font-size: 15px !important;
+    line-height: 24px !important;
+    text-align: center;
+  }

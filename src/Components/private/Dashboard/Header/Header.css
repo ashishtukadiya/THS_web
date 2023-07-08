@@ -1,0 +1,110 @@
+.body-name {
+  position: absolute;
+  left: 0%;
+  right: 88.66%;
+  top: 0%;
+  bottom: 82.98%;
+  width: 131px;
+  height: 40px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 800 !important;
+  font-size: 24px !important;
+  line-height: 40px !important;
+  color: #292c38;
+  margin: 96px 1167px 0px 100px !important;
+}
+
+.total-consult {
+  box-sizing: border-box;
+  position: absolute;
+  background: #ffffff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  width: 264px;
+  height: 176px;
+  margin: 155px 0px 693px 100px !important;
+}
+
+.cancel-consult {
+  box-sizing: border-box;
+  position: absolute;
+  background: #ffffff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  width: 264px;
+  height: 176px;
+  margin: 155px 0px 693px 392px !important;
+}
+
+.total-revenue {
+  box-sizing: border-box;
+  position: absolute;
+  background: #ffffff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  width: 264px;
+  height: 176px;
+  margin: 155px 0px 693px 679px !important;
+}
+
+.current-revenue {
+  box-sizing: border-box;
+  position: absolute;
+  background: #ffffff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  width: 264px;
+  height: 176px;
+  margin: 155px 0px 693px 966px !important;
+}
+
+.icon1 {
+  width: 40px;
+  height: 40px;
+  flex: none;
+  order: 1;
+  align-self: center;
+  flex-grow: 0;
+  margin: 24px 112px 0px 112px !important;
+}
+
+.consult-number {
+  width: 20px;
+  height: 40px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 800 !important;
+  font-size: 32px !important;
+  line-height: 40px !important;
+  text-align: center;
+  color: #1e1f20;
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+  margin: 13.87px 122px 0px 122px !important;
+}
+
+.consult-text {
+  height: 24px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  line-height: 24px !important;
+  text-align: center;
+  color: #9393aa;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 12px 0px 24px 0px !important;
+  white-space: nowrap;
+}
+
+.question-icon {
+  position: absolute;
+  width: 13.33px !important;
+  height: 13.33px !important;
+  margin: 17.33px 17.33px 145.33px 233.33px !important;
+  fill: #abb7c9 !important;
+}

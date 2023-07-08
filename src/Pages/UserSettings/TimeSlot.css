@@ -1,0 +1,310 @@
+.highlight-box {
+  display: flex;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.highlight-line {
+  width: 6px;
+  height: 19px;
+  flex-shrink: 0;
+  border-radius: 2px;
+  background: var(--secondary-2, #f8446c);
+  margin-top: 31px;
+}
+
+.time-slot-title {
+  color: var(--text-1, #1e1f20);
+  font-size: 20px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 32px !important;
+  margin-top: 24px !important;
+  margin-left: 11px !important;
+  white-space: nowrap;
+}
+
+.edit-box {
+  display: inline-flex;
+  padding: 6px 14px;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  border: 1px solid var(--line-colour, #eceff4);
+  background: var(--others-white, #fff);
+  margin-top: 20px !important;
+  margin-left: 580px !important;
+  width: 56px;
+  height: 24px;
+}
+
+.edit-text {
+  color: var(--text-1, #1e1f20);
+  font-size: 14px !important;
+  font-family: Mulish !important;
+  font-weight: 600 !important;
+  line-height: 24px !important;
+}
+
+.sub-divider {
+  width: 887px;
+  height: 0px;
+  flex-shrink: 0;
+  margin-top: 20px !important;
+  background: var(--line-colour, #eceff4);
+}
+
+.fee-box {
+  margin-top: 24px;
+  margin-left: 24px;
+}
+
+.consultation-fee-title {
+  color: var(--text-1, #1e1f20);
+  font-size: 13px !important;
+  font-family: Mulish !important;
+  font-weight: 600 !important;
+  line-height: 16px !important;
+}
+
+.fee-number-box {
+  box-sizing: border-box;
+  position: absolute !important;
+  width: 448px;
+  height: 48px;
+  flex-shrink: 0;
+  margin-top: 4px !important;
+  border-color: rgba(240, 240, 240, 1) !important;
+  border: 1px solid #f0f0f0 !important;
+  border-radius: 8px;
+}
+
+.fee-number-box .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  color: var(--text-2, #9393aa);
+}
+
+.evaluation {
+  color: var(--secondary-2, #f8446c);
+  font-size: 13px !important;
+  font-family: Mulish !important;
+  font-weight: 600 !important;
+  line-height: 16px !important;
+  margin-top: 60px !important;
+  white-space: nowrap;
+}
+
+.fee-divider {
+  width: 448px;
+  height: 1px;
+  flex-shrink: 0;
+  background: var(--line-colour, #eceff4);
+  margin-top: 24px !important;
+  margin-left: 24px !important;
+}
+
+.slot-box {
+  display: flex;
+  margin-left: 24px !important;
+}
+
+.slot-line {
+  width: 6px;
+  height: 19px;
+  flex-shrink: 0;
+  border-radius: 2px;
+  background: var(--secondary-3, #24b2b2);
+  margin-top: 27px !important;
+}
+
+.online-slot-title {
+  color: var(--text-1, #1e1f20);
+  font-size: 17px !important;
+  font-family: Mulish !important;
+  font-weight: 700 !important;
+  line-height: 26px !important;
+  margin-top: 24px !important;
+  margin-left: 11px !important;
+}
+
+.week-schedule {
+  display: flex;
+  margin-top: 24px !important;
+  margin-left: 24px !important;
+}
+
+.week-days {
+  color: var(--secondary-3, #24b2b2);
+  /* color: var(--text-2, #9393aa); */
+  font-size: 20px !important;
+  font-family: Mulish !important;
+  font-weight: 600 !important;
+  line-height: 32px !important;
+  width: 99px !important;
+  height: 32px !important;
+}
+
+.week-ends {
+  color: var(--text-2, #9393aa);
+  /* color: var(--secondary-3, #24b2b2); */
+  font-size: 20px !important;
+  font-family: Mulish !important;
+  font-weight: 600 !important;
+  line-height: 32px !important;
+  width: 99px !important;
+  height: 32px !important;
+  margin-left: 40px !important;
+}
+
+.week-highlight {
+  width: 24px;
+  height: 2px;
+  border-radius: 4px;
+  background: var(--secondary-3, #24b2b2);
+  margin-left: 24px !important;
+}
+
+.weekdays-btn {
+  margin-top: 22px !important;
+  display: flex;
+  gap: 22px;
+  margin-left: 24px !important;
+}
+
+/* .weekends-btn {
+  margin-top: 22px !important;
+  display: flex;
+  gap: 22px;
+  margin-left: 24px !important;
+} */
+
+.weak1 {
+  width: 99px;
+  height: 32px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 32px;
+  color: #9393aa;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-right: 20px !important;
+  text-decoration: wavy;
+}
+.weak2 {
+  width: 99px;
+  height: 32px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 32px;
+  color: #24b2b2;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.day {
+  width: 45px !important;
+  height: 45px !important;
+  color: var(--text-0, #fff) !important;
+  font-size: 20px !important;
+  font-family: Mulish !important;
+  font-weight: 600 !important;
+  line-height: 32px !important;
+  border-radius: 45px !important;
+  background: var(
+    --gradient,
+    linear-gradient(45deg, #3093bb 0%, #82dbff 100%)
+  ) !important;
+}
+
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  min-width: 0px !important;
+  padding: 0px !important;
+  background-color: rgb(255, 255, 255) !important;
+  color: rgb(147, 147, 170) !important;
+  font-size: 20px !important;
+  font-family: Mulish !important;
+  font-weight: 600 !important;
+  line-height: 32px !important;
+}
+.day-time {
+  margin-top: 24px;
+}
+
+.morning {
+  font-family: "Mulish" !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  line-height: 24px !important ;
+  color: #1e1f20 !important ;
+  display: inline-flex !important;
+}
+.remove-btn {
+  float: right;
+  color: #f8446c !important;
+  width: 1.67px;
+  height: 16.67px;
+  top: 1.67px;
+  left: 9.17px;
+}
+.continue-bt {
+  width: 448px;
+  height: 50px;
+  padding: 13px 0px !important;
+  font-family: "Mulish", sans-serif !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  background: linear-gradient(45deg, #3093bb 0%, #82dbff 100%) !important;
+  border-radius: 12px !important;
+  text-transform: capitalize !important;
+}
+.m1 {
+  margin-bottom: 22px;
+  display: flex;
+  width: 151px !important;
+  height: 51x !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 4px;
+  flex-shrink: 0;
+}
+.em-call {
+  margin-top: 18px !important;
+  font-family: "Mulish" !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  color: #1e1f20 !important ;
+}
+.m5 {
+  margin-bottom: 18px;
+}
+
+.S1-day {
+  border-radius: 50% !important;
+  min-width: 45px !important;
+  height: 45px;
+  color: var(--text-2, #9393aa);
+  font-size: 20px;
+  font-family: Mulish;
+  font-weight: 600;
+  line-height: 32px;
+}
+.st-time {
+  color: var(--text-1, #1e1f20) !important;
+
+  /* Caption 1 (Semibold) */
+  font-size: 13px !important;
+  font-family: Mulish !important;
+  font-weight: 600 !important;
+  line-height: 16px !important;
+}

@@ -1,0 +1,202 @@
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  border: none;
+}
+.DOC_profile {
+  margin: 0px 142px;
+}
+.profile-skip {
+  padding-top: 62px;
+  text-align: right;
+}
+.profile-setp {
+  padding-top: 44px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+}
+.profile-info {
+  padding-top: 7px;
+  font-family: "Mulish" !important;
+  font-weight: 800 !important;
+  font-size: 24px !important;
+  line-height: 40px !important;
+}
+.profile-milestone {
+  padding: 10px;
+  border: 1px dashed #24b2b2;
+  display: flex;
+}
+.profile-progressBar {
+  /* display: flex; */
+}
+.profile-mile-text {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  white-space: nowrap;
+}
+.profile-progress {
+  margin: 0px 9px;
+  background: #ededed;
+  border-radius: 100px;
+  height: 6px;
+  width: 260px;
+}
+.progressBar {
+  background: #24b2b2;
+  border-radius: 100px;
+  width: 80px;
+  height: 6px;
+}
+.profile-result {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 24px;
+  color: #f8446c;
+}
+.profile-desc {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 500 !important;
+  font-size: 10px !important;
+  line-height: 12px !important;
+  color: #9393aa;
+  padding-top: 6px;
+  padding-left: 9px;
+}
+
+/* ------------------------------------------------------ Upcoming Consultations */
+.css-46bh2p-MuiCardContent-root {
+  padding: 0px !important;
+}
+.card-content {
+  display: flex;
+}
+.text-color {
+  color: #9393aa;
+}
+.fonts-detail {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 12px !important;
+  line-height: 12px !important;
+}
+.font-detail {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+}
+.THS-consultation {
+  margin-top: 32px;
+}
+.consultation-title {
+  padding-left: 128px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 20px !important;
+  line-height: 32px !important;
+}
+.consultation-details {
+  border-right: 1px solid #eceff4;
+}
+.consultation-card {
+  margin: 32px 91px 213px 142px;
+}
+.card-list {
+  padding: 21px 12px 20px 16px;
+  border-bottom: 1px solid #eceff4;
+}
+.card-list:active {
+  background: #24b2b2;
+}
+.consultation-list {
+}
+.name {
+  padding-top: 10px;
+}
+.text {
+  padding-top: 16px;
+  padding-left: 12px;
+  padding-right: 156px;
+}
+.time {
+  background: rgba(248, 68, 108, 0.1);
+  border-radius: 4px;
+  padding: 4px 6px;
+  margin-top: 12px !important;
+  color: #f8446c;
+}
+.date {
+  margin-top: 10px;
+}
+
+/* ************************************************************************************* */
+
+.success-modal-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.success-modal {
+  margin-top: 34px;
+}
+.success-modal-msg {
+  font-size: 20px !important;
+  font-family: "Mulish" !important;
+  font-weight: 700 !important;
+  line-height: 32px !important;
+  text-align: center;
+  padding-top: 30px;
+}
+.success-modal-subMsg {
+  font-size: 15px !important;
+  font-family: "Mulish" !important;
+  line-height: 24px !important;
+  text-align: center;
+  padding-top: 10px;
+}
+.success-btn {
+  padding-top: 30px;
+}
+.successfully {
+  padding: 13px 121.22px 13px 124.78px !important;
+  text-align: center;
+  font-size: 15px !important;
+  font-family: "Mulish" !important;
+  font-weight: 700 !important;
+  line-height: 24px !important;
+  text-transform: none !important;
+  border-radius: 12px !important;
+  background: var(--gradient, linear-gradient(45deg, #3093bb 0%, #82dbff 100%));
+}
+.THS-success-modal {
+  width: 354px;
+  background: #ffffff;
+  padding: 22px 24px 30px 24px;
+  border-radius: 16px;
+}
+.modal-close-btn {
+  padding: 0px !important;
+  float: right;
+  min-width: 32px !important;
+  border: 1px solid rgba(224, 224, 224, 1) !important;
+}
+.modal-close-btn .css-i4bv87-MuiSvgIcon-root {
+  height: 19.2px;
+  width: 19.2px;
+  padding: 6.4px;
+  color: rgba(147, 147, 170, 1);
+}
+.App {
+  text-align: center;
+}

@@ -1,0 +1,103 @@
+/* .THS-OTP-modal{
+    background: rgba(50, 59, 75, 0.3) ;
+    backdrop-filter: blur(2px);
+} */
+.THS-OTP-modal .css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop {
+  background: rgba(50, 59, 75, 0.3) !important;
+  backdrop-filter: blur(2px);
+}
+.THS-modal {
+  width: 354px;
+  background: #ffffff;
+  padding: 24px 24px 32px 24px;
+  border-radius: 16px;
+}
+.THS-modal-title {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 20px !important;
+  line-height: 32px !important;
+  color: #1e1f20;
+}
+.THS-modal-subtitle {
+  padding-top: 10px ;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  color: #1e1f20;
+}
+.OTP-fileld {
+  display: flex;
+  justify-content: center;
+  margin-top: 38px;
+}
+.OTP-textfield {
+  border: 1px solid #f0f0f0 !important;
+  border-radius: 12px;
+  width: 48px;
+  margin-right: 8px !important;
+}
+.OTP-textfield .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  text-align: center;
+  padding: 13px 0px 11px 0px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 32px;
+}
+.OTP-textfield .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input:focus {
+  border: 1px solid #3093bb !important;
+  border-radius: 12px !important;
+}
+.OTP-timer {
+  padding-top: 19px;
+  text-align: center;
+  color: #f8446c;
+  font-family: "Mulish" !important;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+}
+.OTP-verify-btn {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 38px;
+}
+.OTP-verify-btn .css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+  border-radius: 12px;
+  padding: 13px 52.95px 13px 52.5px;
+  border: 1px solid #e0e0e0;
+  background: none !important;
+  font-family: "Mulish";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #9393aa;
+  text-transform: none;
+}
+.OTP-verify-btn .css-sghohy-MuiButtonBase-root-MuiButton-root {
+  padding: 13px 55.95px 13px 55.5px;
+  border-radius: 12px;
+  background: linear-gradient(45deg, #3093bb 0%, #82dbff 100%);
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+
+
+
+
+/* ------------------------------------------ FORGOT_PASSWORD ------------------------------------------------*/
+
+.psw-textfield{
+  background: #FFFFFF;
+border: 1px solid #F0F0F0;
+border-radius: 8px;
+}

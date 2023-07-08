@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@700&display=swap");
+
+/* .THS-BODY {
+  margin: 0px !important;
+  padding: 0px !important;
+  position: relative;
+  width: 1440px !important;
+  height: 1024px;
+} */
+
+.css-1oqqzyl-MuiContainer-root {
+  margin: 0px !important ;
+  padding: 0px !important;
+}
+
+.rectangle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background: #f8fbff;
+  border-radius: 60px 0px 0px 60px;
+}
+.logo {
+  position: absolute;
+  width: 88px;
+  height: 48px;
+  left: 142px;
+}
+.THS-logo-title {
+  display: inline-flex !important;
+  margin: 40px 0px 0px 120px;
+}
+.THS-logo-text {
+  font-size: larger !important;
+  width: max-content;
+  font-weight: 800 !important;
+  margin-left: 14px !important;
+  color: #3093bb;
+}
+.logo-text {
+  font-size: x-small !important;
+  width: max-content;
+  font-weight: 800 !important;
+  margin-left: 14px !important;
+  color: #3093bb;
+}
+.THS-side-img {
+  margin: 80px 118px 52px 118px;
+}
+.THS-SIDE-IMG-TEXT {
+  width: 417px;
+  margin: auto;
+}
+.THS-bottom-text {
+  font-weight: 800 !important;
+  font-size: 24px !important;
+  text-align: center;
+  line-height: 36px !important;
+  font-family: "Mulish", sans-serif !important;
+}

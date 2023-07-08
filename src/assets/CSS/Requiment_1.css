@@ -1,0 +1,322 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@700&display=swap");
+
+.work-container {
+  margin: 0px 142px;
+}
+
+.skip {
+  margin-top: 62px !important;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 14px !important;
+  line-height: 24px !important;
+  text-align: right !important;
+  color: #1e1f20;
+}
+
+.step {
+  padding-top: 44px !important;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  color: #1e1f20;
+}
+
+.basic-info {
+  margin-top: 7px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 800 !important;
+  font-size: 24px !important;
+  line-height: 40px !important;
+  color: #1e1f20;
+}
+
+.profile-progress-box {
+  margin-top: 10px !important;
+  background: #ffffff;
+  border: 1px dashed #24b2b2;
+  border-radius: 8px !important;
+  display: flex;
+  height: 44px;
+  width: 448px;
+}
+
+.profile-title {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  color: #1e1f20;
+  margin-top: 10px !important;
+  margin-left: 10px !important;
+}
+
+.profile-progress-bar {
+  margin-top: 10px !important;
+  margin: 0px 9px;
+  background: #ededed;
+  border-radius: 100px;
+  height: 6px;
+  width: 260px;
+}
+.progress-linebar {
+  background: #24b2b2;
+  border-radius: 100px;
+  width: 80px;
+  height: 6px;
+}
+
+.profile-txt {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 500 !important;
+  font-size: 10px !important;
+  line-height: 12px !important;
+  color: #9393aa;
+  padding-top: 6px !important;
+}
+
+.profile-percentage {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  text-align: right !important;
+  color: #f8446c;
+  padding-top: 10px !important;
+}
+
+.speciality-box {
+  margin-top: 32px;
+}
+
+.specialit {
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  color: #1e1f20 !important;
+}
+
+.speciality-field {
+  background: #ffffff;
+  border: 1px solid #f0f0f0;
+  border-radius: 8px;
+  width: 330px;
+  margin-top: 4px;
+  margin-left: 0% !important;
+  margin-right: 0% !important;
+
+  .MuiInputBase-input::placeholder {
+    font-family: "Mulish" !important;
+    font-style: normal;
+    font-weight: 600 !important;
+    font-size: 15px !important;
+    line-height: 24px !important;
+    color: #1e1f20 !important;
+  }
+}
+
+.back-btn {
+  display: flex;
+}
+
+.back-bt {
+  background: #ffffff !important;
+  border: 1px solid #3093bb !important;
+
+  border-radius: 12px !important;
+  color: #3093bb!important;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 14px !important;
+  line-height: 24px !important;
+  text-align: center !important;
+  padding: 7px 23.7px 6px 22.93px;
+  margin-left: 8px;
+  display: flex;
+width: 110px !important;
+height: 37px !important;
+justify-content: center !important;
+align-items: center;
+flex-shrink: 0;
+}
+
+.text {
+  font-family: "Mulish" !important;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  color: #f8446c;
+  padding-top: 8px;
+}
+.underline .css-9mgopn-MuiDivider-root {
+  margin-top: 32px !important;
+  background: linear-gradient(45deg, #3093bb 0%, #82dbff 100%) !important;
+  height: 1px;
+}
+
+.Name {
+  display: contents;
+}
+.time {
+  font-family: "Mulish" !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 20px !important;
+  line-height: 32px !important;
+  padding-top: 32px !important;
+}
+.weak1 {
+  width: 99px;
+  height: 32px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 32px;
+  color: #9393aa;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-right: 20px !important;
+  text-decoration:wavy;
+}
+.weak2 {
+  width: 99px;
+  height: 32px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 32px;
+  color: #24b2b2;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.weekend {
+  display: flex;
+  margin-top: 24px;
+  margin-bottom: 38px;
+}
+.day{
+  border-radius: 50% !important;
+  min-width: 45px !important;
+  height: 45px ;
+  color: var(--text-0, #FFF);
+  font-size: 20px;
+font-family: Mulish;
+font-weight: 600;
+line-height: 32px;
+}
+.day-time {
+  margin-top: 24px;
+  
+}
+
+.morning {
+  font-family: "Mulish" !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  line-height: 24px !important ;
+  color: #1e1f20 !important ;
+  display: inline-flex !important; 
+  margin-bottom: 20px !important;
+}
+.remove-btn {
+  float: right;
+  color: #F8446C !important;
+  width: 1.67px;
+  height: 16.67px;
+  top: 1.67px;
+  left: 9.17px;
+
+}
+.continue-bt {
+  width: 448px;
+  height: 50px;
+  padding: 13px 0px !important;
+  font-family:"Mulish", sans-serif !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
+  background: linear-gradient(45deg, #3093bb 0%, #82dbff 100%) !important;
+  border-radius: 12px !important;
+  text-transform: capitalize !important;
+
+}
+.m1 {
+  margin-bottom: 22px;
+  display: flex !important;
+width: 151px !important;
+height: 51x !important;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+gap: 4px;
+flex-shrink: 0;
+}
+.em-call{
+  margin-top: 18px !important;
+  font-family: 'Mulish' !important;
+font-style: normal !important;
+font-weight: 700 !important;
+font-size: 15px !important;
+line-height: 24px !important;
+color: #1e1f20 !important ;
+}
+.m5{
+  margin-bottom: 18px;
+}
+.day-button{
+  margin-top: 22px;
+  display: flex;
+  gap: 22px;
+}
+.day2-btn{
+  margin-top: 22px;
+  display: flex;
+  gap: 22px;
+}
+.S1-day{
+  border-radius: 50% !important;
+  min-width: 45px !important;
+  height: 45px ;
+  color: var(--text-2, #9393AA);
+  font-size: 20px;
+font-family: Mulish;
+font-weight: 600;
+line-height: 32px;
+
+}
+.st-time{
+  color: var(--text-1, #1E1F20) !important;
+
+/* Caption 1 (Semibold) */
+font-size: 13px !important;
+font-family: Mulish !important;
+font-weight: 600 !important;
+line-height: 16px !important;
+}
+.m2{
+
+}
+.time-layout{
+  display: flex !important;
+
+}
+.time-button.active {
+  background-color: red !important; /* Change to the desired color */
+  color: white !important; /* Change to the desired color */
+}
